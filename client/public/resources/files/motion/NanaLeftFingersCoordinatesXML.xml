@@ -1,0 +1,46 @@
+<LeftFingers>
+    <TotalPlayTime>20</TotalPlayTime>
+    <StArT_MoTiOn/>
+    <rock>
+        <Coordinate0 thumb="+180" index="+180" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </rock>
+    <paper>
+        <Coordinate0 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </paper>
+    <scissors>
+        <Coordinate0 thumb="  +0" index="  +0" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </scissors>
+    <rps_rock>
+        <Coordinate0 thumb="+180" index="+180" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </rps_rock>
+    <rps_paper>
+        <Coordinate0 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </rps_paper>
+    <rps_scissors>
+        <Coordinate0 thumb="  +0" index="  +0" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </rps_scissors>
+    <extension_all>
+        <Coordinate0 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </extension_all>
+    <shrinkage_all>
+        <Coordinate0 thumb="+180" index="+180" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </shrinkage_all>
+    <init>
+        <Coordinate0 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </init>
+    <thumb_up>
+        <Coordinate0 thumb="  +0" index="+180" others="+180" division_rate="1" publish_cycle="0.01" function="End_Line"/>
+    </thumb_up>
+    <test_code>
+        <Coordinate0 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate1 thumb=" +45" index=" +45" others=" +45" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate2 thumb=" +90" index=" +90" others=" +90" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate3 thumb="+135" index="+135" others="+135" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate4 thumb="+180" index="+180" others="+180" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate5 thumb="+135" index="+135" others="+135" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate6 thumb=" +90" index=" +90" others=" +90" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate7 thumb=" +45" index=" +45" others=" +45" division_rate="1" publish_cycle="1" function="None"/>
+        <Coordinate8 thumb="  +0" index="  +0" others="  +0" division_rate="1" publish_cycle="1" function="End_Line"/>
+    </test_code>
+    <EnD_MoTiOn/>
+</LeftFingers>

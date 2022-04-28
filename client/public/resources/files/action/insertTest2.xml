@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actionList>
+    <TotalPlayTime>100</TotalPlayTime>
+    <action id="1" type="tts">
+        <fileName>2.mp3</fileName>
+        <startTime>0</startTime>
+        <type>tts</type>
+    </action>
+    <action id="2" type="motion">
+        <fileName>NanaLeftArmCoordinatesXML.xml</fileName>
+        <startTime>0</startTime>
+        <type>motion</type>
+    </action>
+</actionList>

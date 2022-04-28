@@ -1,0 +1,147 @@
+<Neck>
+    <TotalPlayTime>300</TotalPlayTime>
+    <StArT_MoTiOn/>
+    <positive>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate1 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate2 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </positive>
+    <negative>
+        <Coordinate0 pitch="  +0" yaw=" -25" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate2 pitch="  +0" yaw=" +25" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" -25" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate6 pitch="  +0" yaw=" +25" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate7 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </negative>
+    <bow>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="30" publish_cycle="0.1" function="None"/>
+        <Coordinate1 pitch=" +25" yaw="  +0" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate2 pitch=" +25" yaw="  +0" division_rate="15" publish_cycle="0.2" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </bow>
+    <greetings>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate6 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate7 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </greetings>
+    <handshake>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate6 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate7 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </handshake>
+    <dance01>
+        <Coordinate0 pitch="  +0" yaw=" -20" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  -5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate2 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate3 pitch=" +25" yaw="  +5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" +10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw=" +15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate6 pitch=" +25" yaw=" +20" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate7 pitch="  +0" yaw=" +15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate8 pitch="  +0" yaw=" +10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate9 pitch=" +25" yaw="  +5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate10 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate11 pitch="  +0" yaw="  -5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate12 pitch=" +25" yaw=" -10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate13 pitch="  +0" yaw=" -15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate14 pitch="  +0" yaw=" -20" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate15 pitch=" +25" yaw=" -15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate16 pitch="  +0" yaw=" -10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate17 pitch="  +0" yaw="  -5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate18 pitch=" +25" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate19 pitch="  +0" yaw="  +5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate20 pitch="  +0" yaw=" +10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate21 pitch=" +25" yaw=" +15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate22 pitch="  +0" yaw=" +20" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate23 pitch="  +0" yaw=" +15" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate24 pitch=" +25" yaw=" +10" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate25 pitch="  +0" yaw="  +5" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate26 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </dance01>
+    <dance13s>
+        <Coordinate0 pitch="  +0" yaw=" -20" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate1 pitch="  +0" yaw=" -15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate2 pitch=" +25" yaw=" -10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  -5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate4 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate5 pitch=" +25" yaw="  +5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate6 pitch="  +0" yaw=" +10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate7 pitch="  +0" yaw=" +15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate8 pitch=" +25" yaw=" +20" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate9 pitch="  +0" yaw=" +15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate10 pitch="  +0" yaw=" +10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate11 pitch=" +25" yaw="  +5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate12 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate13 pitch="  +0" yaw="  -5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate14 pitch=" +25" yaw=" -10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate15 pitch="  +0" yaw=" -15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate16 pitch="  +0" yaw=" -20" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate17 pitch=" +25" yaw=" -15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate18 pitch="  +0" yaw=" -10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate19 pitch="  +0" yaw="  -5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate20 pitch=" +25" yaw="  +0" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate21 pitch="  +0" yaw="  +5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate22 pitch="  +0" yaw=" +10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate23 pitch=" +25" yaw=" +15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate24 pitch="  +0" yaw=" +20" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate25 pitch="  +0" yaw=" +15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate26 pitch=" +25" yaw=" +10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate27 pitch="  +0" yaw="  +5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate28 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate29 pitch="  +0" yaw="  -5" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate30 pitch=" +25" yaw=" -10" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate31 pitch="  +0" yaw=" -15" division_rate="15" publish_cycle="0.02" function="None"/>
+        <Coordinate32 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.02" function="End_Line"/>
+    </dance13s>
+    <init>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </init>
+    <bored>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.065" function="None"/>
+        <Coordinate1 pitch=" +20" yaw=" +17" division_rate="15" publish_cycle="0.05" function="None"/>
+        <Coordinate2 pitch=" +20" yaw=" +17" division_rate="15" publish_cycle="0.15" function="None"/>
+        <Coordinate3 pitch=" +20" yaw=" -17" division_rate="15" publish_cycle="0.05" function="None"/>
+        <Coordinate4 pitch=" +20" yaw=" -17" division_rate="15" publish_cycle="0.15" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </bored>
+    <looking_around>
+        <Coordinate0 pitch="  +0" yaw="  +0" division_rate="15" publish_cycle="0.065" function="None"/>
+        <Coordinate1 pitch="  +0" yaw=" +30" division_rate="15" publish_cycle="0.05" function="None"/>
+        <Coordinate2 pitch="  +0" yaw=" +30" division_rate="15" publish_cycle="0.1" function="None"/>
+        <Coordinate3 pitch="  +0" yaw=" -30" division_rate="15" publish_cycle="0.05" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" -30" division_rate="15" publish_cycle="0.1" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="10" publish_cycle="0.03" function="End_Line"/>
+    </looking_around>
+    <test_code>
+        <Coordinate0 pitch=" -10" yaw="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate2 pitch=" +20" yaw="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" -30" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate6 pitch="  +0" yaw=" +30" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate7 pitch="  +0" yaw="  +0" division_rate="5" publish_cycle="0.5" function="None"/>
+        <Coordinate8 pitch="  +0" yaw="  +0" division_rate="5" publish_cycle="0.5" function="End_Line"/>
+    </test_code>
+    <test_123>
+        <Coordinate0 pitch="+0" yaw="+0" division_rate="+23" publish_cycle="0.03" function="End_Line"/>
+    </test_123>
+    <EnD_MoTiOn/>
+</Neck>
