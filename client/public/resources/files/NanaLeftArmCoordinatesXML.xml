@@ -1,0 +1,178 @@
+<LeftArm>
+    <StArT_MoTiOn/>
+    <TotalPlayTime>100</TotalPlayTime>
+    <init>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw="  +0" elbow_roll="  +0" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw="  +0" elbow_roll="  +0" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </init>
+    <ready>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="+0" shoulder_pitch="+0" upperarm_yaw="+45" elbow_roll="+0" forearm_yaw="-45" wrist_roll="+0" fingers_command="None" division_rate="+10" publish_cycle="0.10" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="+0" shoulder_pitch="+0" upperarm_yaw="+45" elbow_roll="+0" forearm_yaw="-45" wrist_roll="+0" fingers_command="None" division_rate="+10" publish_cycle="0.10" function="None"/>
+        <Coordinate4 shoulder_roll="+0" shoulder_pitch="+0" upperarm_yaw="+45" elbow_roll="+0" forearm_yaw="-45" wrist_roll="+0" fingers_command="None" division_rate="+10" publish_cycle="0.10" function="End_Line"/>
+    </ready>
+    <greetings>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch=" -65" upperarm_yaw=" +70" elbow_roll=" -80" forearm_yaw="-180" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -65" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="-180" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch=" -65" upperarm_yaw=" +70" elbow_roll=" -80" forearm_yaw="-180" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -65" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="-180" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll="  +0" shoulder_pitch=" -65" upperarm_yaw=" +70" elbow_roll=" -80" forearm_yaw="-180" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </greetings>
+    <greetings_bow>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -50" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -13" upperarm_yaw="  +5" elbow_roll=" -30" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </greetings_bow>
+    <bow>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -50" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -20" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </bow>
+    <stand>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -50" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </stand>
+    <stand_init>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -20" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw="  +0" elbow_roll="  +0" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw="  +0" elbow_roll="  +0" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </stand_init>
+    <dance01>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -50" upperarm_yaw=" +60" elbow_roll=" -40" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch=" -50" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -50" upperarm_yaw=" +60" elbow_roll=" -40" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch=" -50" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -50" upperarm_yaw=" +60" elbow_roll=" -40" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll="  +0" shoulder_pitch=" -20" upperarm_yaw=" +30" elbow_roll=" -40" forearm_yaw=" -30" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </dance01>
+    <dance02>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch=" -10" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -30" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </dance02>
+    <dance03>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +30" shoulder_pitch=" -40" upperarm_yaw=" +20" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" +30" shoulder_pitch=" -40" upperarm_yaw=" +20" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" +30" shoulder_pitch=" -40" upperarm_yaw=" +20" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch=" -20" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -30" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </dance03>
+    <dance04>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch=" -10" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -30" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </dance04>
+    <dance13s>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate10 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate11 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +60" elbow_roll=" -80" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate12 shoulder_roll="  +0" shoulder_pitch=" -40" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw=" -70" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate13 shoulder_roll="  +0" shoulder_pitch=" -10" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw=" -30" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate14 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate15 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </dance13s>
+    <bored>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -40" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="shrinkage_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="extension_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="shrinkage_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="extension_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="shrinkage_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll=" +10" shoulder_pitch=" -60" upperarm_yaw=" +30" elbow_roll=" -80" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="extension_all" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll=" +10" shoulder_pitch=" -45" upperarm_yaw=" +30" elbow_roll=" -30" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate10 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </bored>
+    <saysomething>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -15" upperarm_yaw=" +40" elbow_roll=" -20" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </saysomething>
+    <saylong>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +60" elbow_roll=" -60" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.4" function="None"/>
+        <Coordinate2 shoulder_roll="  +0" shoulder_pitch=" -15" upperarm_yaw=" +40" elbow_roll=" -20" forearm_yaw="  +0" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </saylong>
+    <handshake>
+        <Coordinate0 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +50" elbow_roll=" -20" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -55" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -40" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -40" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -55" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll=" -20" shoulder_pitch=" -40" upperarm_yaw=" +50" elbow_roll=" -55" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate9 shoulder_roll="  +0" shoulder_pitch=" -30" upperarm_yaw=" +30" elbow_roll=" -20" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="5" publish_cycle="0.05" function="None"/>
+        <Coordinate10 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate11 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </handshake>
+    <handshake_bow>
+        <Coordinate0 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -50" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate1 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate2 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate3 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate4 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate5 shoulder_roll=" +10" shoulder_pitch=" -13" upperarm_yaw=" +10" elbow_roll=" -70" forearm_yaw=" -90" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate6 shoulder_roll="  +0" shoulder_pitch=" -13" upperarm_yaw="  +5" elbow_roll=" -30" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate7 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="init" division_rate="10" publish_cycle="0.1" function="None"/>
+        <Coordinate8 shoulder_roll="  +0" shoulder_pitch="  +0" upperarm_yaw=" +45" elbow_roll="  +0" forearm_yaw=" -45" wrist_roll="  +0" fingers_command="None" division_rate="10" publish_cycle="0.1" function="End_Line"/>
+    </handshake_bow>
+    <test_123>
+        <Coordinate0 shoulder_roll="+0" shoulder_pitch="+0" upperarm_yaw="+0" elbow_roll="+0" forearm_yaw="+0" wrist_roll="+0" fingers_command="None" division_rate="+10" publish_cycle="0.10" function="End_Line"/>
+    </test_123>
+    <EnD_MoTiOn/>
+</LeftArm>

@@ -1,0 +1,42 @@
+<Waist>
+    <TotalPlayTime>50</TotalPlayTime>
+    <StArT_MoTiOn/>
+    <dance01>
+        <Coordinate0 pitch="  +0" yaw=" -40" knee_pitch="  +0" division_rate="23" publish_cycle="0.03" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="40" publish_cycle="0.03" function="None"/>
+        <Coordinate2 pitch="  +0" yaw=" -40" knee_pitch="  +0" division_rate="23" publish_cycle="0.03" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="40" publish_cycle="0.03" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" +40" knee_pitch="  +0" division_rate="23" publish_cycle="0.03" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="40" publish_cycle="0.03" function="End_Line"/>
+    </dance01>
+    <dance13s>
+        <Coordinate0 pitch="  +0" yaw=" -40" knee_pitch="  +0" division_rate="23" publish_cycle="0.04" function="None"/>
+        <Coordinate1 pitch="  +0" yaw=" +25" knee_pitch="  +0" division_rate="40" publish_cycle="0.04" function="None"/>
+        <Coordinate2 pitch="  +0" yaw=" +70" knee_pitch="  +0" division_rate="23" publish_cycle="0.04" function="None"/>
+        <Coordinate3 pitch="  +0" yaw=" +25" knee_pitch="  +0" division_rate="40" publish_cycle="0.04" function="None"/>
+        <Coordinate4 pitch="  +0" yaw=" -40" knee_pitch="  +0" division_rate="23" publish_cycle="0.04" function="None"/>
+        <Coordinate5 pitch="  +0" yaw=" +25" knee_pitch="  +0" division_rate="40" publish_cycle="0.04" function="None"/>
+        <Coordinate6 pitch="  +0" yaw=" +70" knee_pitch="  +0" division_rate="23" publish_cycle="0.04" function="None"/>
+        <Coordinate7 pitch="  +0" yaw=" +25" knee_pitch="  +0" division_rate="40" publish_cycle="0.04" function="None"/>
+        <Coordinate8 pitch="  +0" yaw=" -40" knee_pitch="  +0" division_rate="23" publish_cycle="0.04" function="None"/>
+        <Coordinate9 pitch="  +0" yaw=" +25" knee_pitch="  +0" division_rate="40" publish_cycle="0.04" function="End_Line"/>
+    </dance13s>
+    <init>
+        <Coordinate0 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="40" publish_cycle="0.03" function="End_Line"/>
+    </init>
+    <test_code>
+        <Coordinate0 pitch=" -20" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate1 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate2 pitch=" +20" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate3 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate4 pitch="  +0" yaw="-130" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate5 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate6 pitch="  +0" yaw="+130" knee_pitch="  +0" division_rate="5" publish_cycle="0.2" function="None"/>
+        <Coordinate7 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.5" function="None"/>
+        <Coordinate8 pitch="  +0" yaw="  +0" knee_pitch="  +0" division_rate="5" publish_cycle="0.5" function="End_Line"/>
+    </test_code>
+    <test_123>
+        <Coordinate0 pitch="+0" yaw="+0" knee_pitch="+0" division_rate="+23" publish_cycle="0.03" function="End_Line"/>
+    </test_123>
+    <EnD_MoTiOn/>
+</Waist>

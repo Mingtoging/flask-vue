@@ -1,0 +1,68 @@
+<MotionPlanner>
+    <TotalPlayTime>1000</TotalPlayTime>
+    <StArT_MoTiOn/>
+    <ready>
+        <Coordinate0 left_arm="ready" right_arm="ready" neck="init" waist="init" result_value="done" operation_time="1.5" function="End_Line"/>
+    </ready>
+    <init>
+        <Coordinate0 left_arm="init" right_arm="init" neck="init" waist="init" result_value="done" operation_time="2.5" function="End_Line"/>
+    </init>
+    <stop>
+        <Coordinate0 left_arm="stop" right_arm="stop" neck="stop" waist="stop" result_value="stop" operation_time="1.0" function="End_Line"/>
+    </stop>
+    <stop_init>
+        <Coordinate0 left_arm="stop" right_arm="stop" neck="stop" waist="stop" result_value="stop" operation_time="1.0" function="None"/>
+        <Coordinate1 left_arm="init" right_arm="init" neck="init" waist="init" result_value="done" operation_time="2.5" function="End_Line"/>
+    </stop_init>
+    <stand>
+        <Coordinate0 left_arm="stand" right_arm="stand" neck="None" waist="None" result_value="done" operation_time="2.5" function="End_Line"/>
+    </stand>
+    <stand_init>
+        <Coordinate0 left_arm="stand_init" right_arm="stand_init" neck="None" waist="None" result_value="done" operation_time="2.5" function="End_Line"/>
+    </stand_init>
+    <stand_ready>
+        <Coordinate0 left_arm="stand_init" right_arm="stand_init" neck="None" waist="None" result_value="done" operation_time="2.5" function="End_Line"/>
+    </stand_ready>
+    <bow>
+        <Coordinate0 left_arm="bow" right_arm="bow" neck="bow" waist="None" result_value="done" operation_time="8.5" function="End_Line"/>
+    </bow>
+    <greetings>
+        <Coordinate0 left_arm="greetings_bow" right_arm="greetings" neck="greetings" waist="None" result_value="done" operation_time="8.5" function="End_Line"/>
+    </greetings>
+    <saysomething>
+        <Coordinate0 left_arm="saysomething" right_arm="saysomething" neck="None" waist="None" result_value="done" operation_time="4.5" function="End_Line"/>
+    </saysomething>
+    <saylong>
+        <Coordinate0 left_arm="saylong" right_arm="saylong" neck="None" waist="None" result_value="done" operation_time="4.5" function="End_Line"/>
+    </saylong>
+    <handshake>
+        <Coordinate0 left_arm="handshake_bow" right_arm="handshake" neck="handshake" waist="None" result_value="done" operation_time="8.5" function="End_Line"/>
+    </handshake>
+    <bored>
+        <Coordinate0 left_arm="bored" right_arm="bored" neck="bored" waist="None" result_value="done" operation_time="10" function="End_Line"/>
+    </bored>
+    <looking_around>
+        <Coordinate0 left_arm="init" right_arm="init" neck="looking_around" waist="None" result_value="done" operation_time="8.5" function="End_Line"/>
+    </looking_around>
+    <dance13s>
+        <Coordinate0 left_arm="dance13s" right_arm="dance13s" neck="dance13s" waist="dance13s" result_value="done" operation_time="9.8" function="End_Line"/>
+    </dance13s>
+    <dance>
+        <Coordinate0 left_arm="dance01" right_arm="dance01" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate1 left_arm="dance02" right_arm="dance02" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate2 left_arm="dance03" right_arm="dance03" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate3 left_arm="dance04" right_arm="dance04" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate4 left_arm="dance01" right_arm="dance01" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate5 left_arm="dance03" right_arm="dance03" neck="dance01" waist="dance01" result_value="done" operation_time="9.8" function="End_Line"/>
+    </dance>
+    <showcase>
+        <Coordinate0 left_arm="bow" right_arm="bow" neck="bow" waist="None" result_value="None" operation_time="8.5" function="None"/>
+        <Coordinate1 left_arm="greetings_bow" right_arm="greetings" neck="greetings" waist="None" result_value="None" operation_time="8.5" function="None"/>
+        <Coordinate2 left_arm="saysomething" right_arm="saysomething" neck="None" waist="None" result_value="None" operation_time="4.5" function="None"/>
+        <Coordinate3 left_arm="handshake_bow" right_arm="handshake" neck="handshake" waist="None" result_value="None" operation_time="8.5" function="None"/>
+        <Coordinate4 left_arm="bored" right_arm="bored" neck="bored" waist="None" result_value="None" operation_time="10" function="None"/>
+        <Coordinate5 left_arm="dance01" right_arm="dance01" neck="dance01" waist="dance01" result_value="None" operation_time="9.8" function="None"/>
+        <Coordinate6 left_arm="dance03" right_arm="dance03" neck="dance01" waist="dance01" result_value="done" operation_time="9.8" function="End_Line"/>
+    </showcase>
+    <EnD_MoTiOn/>
+</MotionPlanner>
